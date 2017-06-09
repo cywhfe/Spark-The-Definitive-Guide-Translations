@@ -3,7 +3,7 @@
 | Chapter & Section Id | Chapter & Section Name                  | Translator | Progress |
 | -------------------- | --------------------------------------- | ---------- | -------- |
 | 1                    | A Gentle Introduction to Spark          | /          | /        |
-| 1.1                  | Spark's Basic Architecture              |            |          |
+| 1.1                  | Spark's Basic Architecture              | Shiny      |          |
 | 1.2                  | Spark's Language APIs                   |            |          |
 | 1.3                  | Starting Spark                          |            |          |
 | 1.4                  | SparkSession                            |            |          |
